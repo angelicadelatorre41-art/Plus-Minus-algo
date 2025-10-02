@@ -1,1 +1,1 @@
-# Plus-Minus-algo
+# Plus-Minus-algo This program counts how many numbers in a list are positive, negative, or zero. It then prints the ratio of each category to the total size of the list, formatted to six decimal places.
